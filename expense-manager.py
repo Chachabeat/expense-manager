@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+print('start')
 # Standard library imports
 import os
 import sys
@@ -7,11 +7,11 @@ import glob
 import logging
 import asyncio
 import warnings
-
+print('standard loaded')
 # Third-party library imports
 from dotenv import load_dotenv
 import langchain
-
+print('third-party loaded')
 # Local application/library specific imports
 from src.file_processing import manage_processed_files, save_results, process_file
 from src.config import (
@@ -21,7 +21,7 @@ from src.config import (
     LOG_FILE,
     LOG_LEVEL
 )
-
+print('local loaded')
 def read_args(args: list) -> bool:
     n_flag = False
     d_flag = False
@@ -41,7 +41,7 @@ def read_args(args: list) -> bool:
         
     return n_flag, d_flag
 
-
+print('read args loaded')
 async def main():
     """
     Main function to initialize environment, process CSV files, 
@@ -64,6 +64,7 @@ async def main():
     # Configure logging with file, level, and format
     logging.basicConfig(filename=LOG_FILE, level=LOG_LEVEL, format='%(asctime)s %(levelname)s %(name)s %(message)s')
     logger = logging.getLogger(__name__)
+    logger.info('start process')
 
     # Create and run an asyncio task to process each file
     file_paths = glob.glob(os.path.join(TX_INPUT_FOLDER, "*.csv"), recursive=True) + glob.glob(os.path.join(TX_INPUT_FOLDER, "*.CSV"), recursive=True)    

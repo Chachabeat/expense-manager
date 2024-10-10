@@ -1,0 +1,564 @@
+Date,Amount,Account Number,,Transaction Type,Transaction Details,Balance,Category,Merchant Name
+26 May 24,-20.17,Card ending 2633, ,PURCHASE AUTHORISATION,Linkt Sydney,-1362.57,Transport,Linkt
+25 May 24,-0.20,Card ending 2633, ,PURCHASE AUTHORISATION,KMART 1155 BROADWAY,-1342.40,Shopping,Kmart (Broadway Sydney)
+25 May 24,-5.96,Card ending 2633, ,PURCHASE AUTHORISATION,PANLARN THAI PTY LTD HAYMARKET,-1342.20,Groceries,Pontip Thai Market
+24 May 24,-120.00,Card ending 2633, ,PURCHASE AUTHORISATION,OS CALCIS PTY LIMITED SYDNEY,-1336.24,Health,Centre For Podiatric Medicine (Sydney)
+23 May 24,-10.15,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Zilia Australia,-1216.24,Shopping,Shopback Australia
+23 May 24,-145.00,Card ending 2633, ,CREDIT CARD PURCHASE,ESSENTIAL MED IMAGIN SYDNEY,-1206.09,Health,EMI Essential Medical Imaging
+22 May 24,-7.11,Card ending 2633, ,CREDIT CARD PURCHASE,LEE & KO PTY LTD EASTWOOD,-1061.09,Services,Lee & KO Pty Ltd
+22 May 24,-4.90,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*10000 Lab Eastwood,-1053.98,Food & drink,10000 Lab
+22 May 24,-23.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1049.08,Shopping,Amazon
+22 May 24,-22.90,Card ending 2633, ,CREDIT CARD PURCHASE,AN VIET EASTWOOD PTY Eastwood,-1025.09,Uncategorised,
+22 May 24,-12.69,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack BonBons Bakery Australia,-1002.19,Shopping,Shopback Australia
+22 May 24,-395.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-989.50,Shopping,Amazon
+21 May 24,-10.15,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Canteen Taiwan EAustralia,-594.50,Uncategorised,
+20 May 24,-6.62,Card ending 2633, ,CREDIT CARD PURCHASE,LIVE GROUP/8/1 PROGRESS AEASTWOOD,-584.35,Groceries,Eastwood Village Superfresh
+20 May 24,-22.32,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *ULTIMO KITCHEN Ultimo,-577.73,Food & drink,Ultimo Kitchen
+20 May 24,-19.99,Card ending 2633, ,CREDIT CARD PURCHASE,Kindle Svcs MELBOURNE,-555.41,Shopping,Amazon
+20 May 24,-19.27,Card ending 2633, ,CREDIT CARD PURCHASE,CN Poultry Eastwood Eastwood,-535.42,Groceries,CN Poultry
+20 May 24,-55.00,Card ending 2633, ,CREDIT CARD PURCHASE,HUI LING XIE PYRMONT,-516.15,Uncategorised,
+20 May 24,19.99,Card ending 2633, ,CREDIT CARD REFUND,Kindle Svcs MELBOURNE,-461.15,Other income,Amazon
+17 May 24,-39.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *WORLDWIDE Surry Hills,-481.14,Services,Worldwide Printing Solutions (Sydney CBD Central)
+16 May 24,-32.99,Card ending 2633, ,CREDIT CARD PURCHASE,Google YouTubePremium Barangaroo,-442.14,Subscriptions,YouTube
+15 May 24,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,LEE & KO PTY LTD EASTWOOD,-409.15,Services,Lee & KO Pty Ltd
+15 May 24,-120.00,Card ending 2633, ,CREDIT CARD PURCHASE,BOOYONG KIM SYDNEY,-401.03,Uncategorised,
+15 May 24,1265.48,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-281.03,Internal transfers,
+14 May 24,-26.96,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1546.51,Shopping,Amazon
+14 May 24,-16.57,Card ending 2633, ,CREDIT CARD PURCHASE,ALDI STORES - BROADWAY BROADWAY,-1519.55,Groceries,ALDI (Broadway)
+13 May 24,-65.00,Card ending 2633, ,CREDIT CARD PURCHASE,BOOYONG KIM SYDNEY,-1502.98,Uncategorised,
+09 May 24,-8.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1437.98,Shopping,Amazon
+09 May 24,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Sydney,-1428.99,Shopping,Adobe Systems
+09 May 24,-125.44,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-1414.70,Shopping,PayPal
+08 May 24,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-1289.26,Subscriptions,Amazon Prime
+07 May 24,-13.79,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1279.27,Shopping,Amazon
+06 May 24,-8.55,Card ending 2633, ,CREDIT CARD PURCHASE,CN Poultry Eastwood Eastwood,-1265.48,Groceries,CN Poultry
+06 May 24,-5.18,Card ending 2633, ,CREDIT CARD PURCHASE,LIVE GROUP/8/1 PROGRESS AEASTWOOD,-1256.93,Groceries,Eastwood Village Superfresh
+06 May 24,-35.00,Card ending 2633, ,CREDIT CARD PURCHASE,JEERA RUNTO PTY LTD REDFERN,-1251.75,Uncategorised,
+06 May 24,-28.20,Card ending 2633, ,CREDIT CARD PURCHASE,THE SPICE LOUNGE INDIA PYRMONT,-1216.75,Food & drink,The Spice Lounge Indian Cuisine
+06 May 24,-15.23,Card ending 2633, ,CREDIT CARD PURCHASE,HO CHAK PTY LTD CHATSWOOD,-1188.55,Food & drink,Bao Dao Taiwanese Kitchen (Chatswood)
+06 May 24,-14.00,Card ending 2633, ,CREDIT CARD PURCHASE,FB AU PTY LTD EASTWOOD,-1173.32,Home,FB AU Pty Ltd
+06 May 24,-12.28,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1159.32,Shopping,Amazon
+06 May 24,-10.44,Card ending 2633, ,CREDIT CARD PURCHASE,DidiChuxing DIDI MOBILITYSydney,-1147.04,Transport,DiDi
+06 May 24,-60.00,Card ending 2633, ,CREDIT CARD PURCHASE,JEERA RUNTO PTY LTD REDFERN,-1136.60,Uncategorised,
+01 May 24,-18.78,Card ending 2633, ,CREDIT CARD PURCHASE,DidiChuxing DIDI MOBILITYSydney,-1076.60,Transport,DiDi
+29 Apr 24,-7.99,Card ending 2633, ,CREDIT CARD PURCHASE,L & W MEAT EASTWOOD,-1057.82,Groceries,L & W Meat
+29 Apr 24,-18.00,Card ending 2633, ,CREDIT CARD PURCHASE,FB AU PTY LTD EASTWOOD,-1049.83,Home,FB AU Pty Ltd
+29 Apr 24,-80.60,Card ending 2633, ,CREDIT CARD PURCHASE,AN VIET EASTWOOD PTY Eastwood,-1031.83,Uncategorised,
+29 Apr 24,-117.20,Card ending 2633, ,CREDIT CARD PURCHASE,VICTORIAS BASEMENT AUBURN,-951.23,Home,Victoria's Basement (Auburn)
+26 Apr 24,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-834.03,Food & drink,The Q on Harris
+26 Apr 24,-3.89,Card ending 2633, ,CREDIT CARD PURCHASE,Kindle Svcs MELBOURNE,-830.03,Shopping,Amazon
+26 Apr 24,-15.99,Card ending 2633, ,CREDIT CARD PURCHASE,Kindle Svcs MELBOURNE,-826.14,Shopping,Amazon
+26 Apr 24,15.99,Card ending 2633, ,CREDIT CARD REFUND,Kindle Svcs MELBOURNE,-810.15,Other income,Amazon
+26 Apr 24,3.89,Card ending 2633, ,CREDIT CARD REFUND,Kindle Svcs MELBOURNE,-826.14,Other income,Amazon
+24 Apr 24,-23.70,Card ending 2633, ,CREDIT CARD PURCHASE,OIDEN 11 PTY LTD SYDNEY,-830.03,Food & drink,Oiden Bowl Bar
+23 Apr 24,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-806.33,Food & drink,The Q on Harris
+22 Apr 24,-14.59,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Old School KafeyAustralia,-802.33,Uncategorised,
+19 Apr 24,-8.33,Card ending 2633, ,CREDIT CARD PURCHASE,DidiChuxing DIDI MOBILITYSydney,-787.74,Transport,DiDi
+19 Apr 24,-36.26,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-779.41,Shopping,Amazon
+18 Apr 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SKITTLE LANE Sydney,-743.15,Food & drink,Skittle Lane (Sydney CBD)
+18 Apr 24,-16.24,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Zilia Australia,-738.15,Shopping,Shopback Australia
+17 Apr 24,-6.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-721.91,Food & drink,Edition Coffee Roasters
+17 Apr 24,32.57,Card ending 2633, ,CREDIT CARD REFUND,AMAZON AU SYDNEY SOUTH,-715.91,Other income,Amazon
+16 Apr 24,-37.99,Card ending 2633, ,CREDIT CARD PURCHASE,CHEMIST WAREHOUSE EASTWOOD,-748.48,Health,Chemist Warehouse (Eastwood)
+16 Apr 24,-32.99,Card ending 2633, ,CREDIT CARD PURCHASE,Google YouTubePremium Barangaroo,-710.49,Subscriptions,YouTube
+16 Apr 24,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-677.50,Transport,Linkt
+16 Apr 24,-76.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-657.33,Personal care,Eastwood Thai Massage & Spa
+16 Apr 24,2981.07,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-581.33,Internal transfers,
+15 Apr 24,-9.74,Card ending 2633, ,CREDIT CARD PURCHASE,CN Poultry Eastwood Eastwood,-3562.40,Groceries,CN Poultry
+15 Apr 24,-22.36,Card ending 2633, ,CREDIT CARD PURCHASE,LIVE GROUP/8/1 PROGRESS AEASTWOOD,-3552.66,Groceries,Eastwood Village Superfresh
+15 Apr 24,-13.00,Card ending 2633, ,CREDIT CARD PURCHASE,COCO FRESH TEA AND JUICE SYDNEY,-3530.30,Food & drink,CoCo Fresh Tea & Juice
+12 Apr 24,-6.50,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-3517.30,Shopping,Amazon
+12 Apr 24,-4.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-3510.80,Food & drink,Cafe Kappuccino
+12 Apr 24,-39.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-3506.60,Shopping,Amazon
+11 Apr 24,-32.57,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-3466.61,Shopping,Amazon
+11 Apr 24,-12.74,Card ending 2633, ,CREDIT CARD PURCHASE,ZLR*Tuyen Fresh Seafood Haymarket,-3434.04,Groceries,Tuyen Fresh Seafood
+10 Apr 24,-27.00,Card ending 2633, ,CREDIT CARD PURCHASE,GLASGOW HOTEL PTY LTD ULTIMO,-3421.30,Travel,Glasgow Arms Hotel
+10 Apr 24,-25.80,Card ending 2633, ,CREDIT CARD PURCHASE,KBAY GLOBAL CHERRYBROOK,-3394.30,Groceries,Kbay Global Pty Ltd
+10 Apr 24,-22.00,Card ending 2633, ,CREDIT CARD PURCHASE,LA VIGNE BAKERY EASTWOOD,-3368.50,Groceries,La Vigne Bakery
+10 Apr 24,-19.32,Card ending 2633, ,CREDIT CARD PURCHASE,S-MART KOREA EASTWOOD,-3346.50,Groceries,Eastwood Mart
+10 Apr 24,-16.04,Card ending 2633, ,CREDIT CARD PURCHASE,JUN'S NOODLE & BUN EASTWOOD,-3327.18,Uncategorised,
+10 Apr 24,-82.62,Card ending 2633, ,CREDIT CARD PURCHASE,257 HOME KITCHEN EASTWOOD,-3311.14,Food & drink,257 Home Kitchen
+09 Apr 24,-4.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-3228.52,Food & drink,Cafe Kappuccino
+09 Apr 24,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Sydney,-3224.32,Shopping,Adobe Systems
+09 Apr 24,-125.44,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-3210.03,Shopping,PayPal
+08 Apr 24,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-3084.59,Subscriptions,Amazon Prime
+08 Apr 24,-6.12,Card ending 2633, ,CREDIT CARD PURCHASE,DidiChuxing DIDI MOBILITYSydney,-3074.60,Transport,DiDi
+08 Apr 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *GUMPTION COFFEE Sydney,-3068.48,Food & drink,Gumption by Coffee Alchemy
+08 Apr 24,-4.06,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Mochi Donuts Australia,-3063.98,Shopping,Shopback Australia
+08 Apr 24,-37.32,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Canton Cafe Australia,-3059.92,Shopping,Shopback Australia
+08 Apr 24,-17.10,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-3022.60,Food & drink,Cafe Kappuccino
+08 Apr 24,-13.53,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Tea Spot Australia,-3005.50,Shopping,Shopback Australia
+08 Apr 24,-10.90,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-2991.97,Shopping,Amazon
+04 Apr 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2981.07,Food & drink,Edition Coffee Roasters
+04 Apr 24,-12.47,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Zilia Australia,-2976.07,Shopping,Shopback Australia
+04 Apr 24,-106.89,Card ending 2633, ,CREDIT CARD PURCHASE,Sydney Doctors Sydney,-2963.60,Health,Sydney Doctors
+03 Apr 24,-4.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-2856.71,Food & drink,Cafe Kappuccino
+03 Apr 24,-20.71,Card ending 2633, ,CREDIT CARD PURCHASE,Rice & Curry Pyrmont,-2852.51,Food & drink,Rice & Curry
+03 Apr 24,-18.77,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *ULTIMO KITCHEN Ultimo,-2831.80,Food & drink,Ultimo Kitchen
+03 Apr 24,-15.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-2813.03,Shopping,Amazon
+02 Apr 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,LITTLE SPARROW SYDNEY SYDNEY,-2797.04,Food & drink,Little Sparrow (Westfield Sydney)
+02 Apr 24,-4.60,Card ending 2633, ,CREDIT CARD PURCHASE,JBAE HOLDINGS PL SYDNEY,-2792.04,Services,Jbae Holdings Pty Ltd
+02 Apr 24,-20.08,Card ending 2633, ,CREDIT CARD PURCHASE,ALDI STORES - WINSTON WINSTON HILLS,-2787.44,Groceries,ALDI (Winston Hills Mall)
+02 Apr 24,-15.06,Card ending 2633, ,CREDIT CARD PURCHASE,Stacked Sydney,-2767.36,Food & drink,Stacked (Martin Place)
+02 Apr 24,-76.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-2752.30,Personal care,Eastwood Thai Massage & Spa
+28 Mar 24,-15.00,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-2676.30,Groceries,Locali By Romeo's
+28 Mar 24,-14.50,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2661.30,Food & drink,Edition Coffee Roasters
+28 Mar 24,-96.20,Card ending 2633, ,CREDIT CARD PURCHASE,THAI KEE IGA SUPERMA HAYMARKET,-2646.80,Groceries,Thai Kee IGA (Market City)
+27 Mar 24,-4.89,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *BLACK & WHITE ESPRESSSydney,-2550.60,Food & drink,Black & White Espresso
+27 Mar 24,-14.27,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-2545.71,Groceries,Locali By Romeo's
+26 Mar 24,-8.35,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-2531.44,Groceries,Woolworths (Eastwood)
+26 Mar 24,-29.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-2523.09,Shopping,Amazon
+26 Mar 24,-20.30,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *TEA SPOT Eastwood,-2493.10,Shopping,Square
+26 Mar 24,-79.98,Card ending 2633, ,CREDIT CARD PURCHASE,CHEMIST WAREHOUSE EASTWOOD,-2472.80,Health,Chemist Warehouse (Eastwood)
+26 Mar 24,-60.76,Card ending 2633, ,CREDIT CARD PURCHASE,PBS EASTWOOD PTY LTD EASTWOOD,-2392.82,Food & drink,PBS Eastwood
+26 Mar 24,1474.00,Card ending 2633, ,CREDIT CARD REFUND,THE GOOD GUYS WEB STORE SOUTHBANK,-2332.06,Other income,The Good Guys
+26 Mar 24,9.10,Card ending 2633, ,CREDIT CARD REFUND,MCDONALDS DARLING SQ HAYMARKET,-3806.06,Other income,McDonald's (Darling Quarter)
+25 Mar 24,-8.90,Card ending 2633, ,CREDIT CARD PURCHASE,Boost Juice Broadway Ultimo,-3815.16,Food & drink,Boost Juice (Broadway)
+25 Mar 24,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-3806.26,Food & drink,Machi Machi (Eastwood)
+25 Mar 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-3798.14,Food & drink,Edition Coffee Roasters
+25 Mar 24,-36.13,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Canton Cafe Australia,-3793.14,Shopping,Shopback Australia
+25 Mar 24,-31.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-3757.01,Food & drink,Cafe Kappuccino
+25 Mar 24,-30.30,Card ending 2633, ,CREDIT CARD PURCHASE,MCDONALDS DARLING SQ HAYMARKET,-3726.01,Food & drink,McDonald's (Darling Quarter)
+25 Mar 24,-18.80,Card ending 2633, ,CREDIT CARD PURCHASE,RUMBLES FINE CAFE EASTWOOD,-3695.71,Food & drink,Rumbles Fine Cafe
+25 Mar 24,-16.26,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*Adanos Centrepoint Sydney,-3676.91,Food & drink,Adanos Grill (Westfield Sydney)
+25 Mar 24,-16.13,Card ending 2633, ,CREDIT CARD PURCHASE,Mumbai Express Glebe,-3660.65,Food & drink,Mumbai Express (Broadway - Head Office)
+25 Mar 24,-14.47,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-3644.52,Groceries,Locali By Romeo's
+25 Mar 24,-91.96,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Tom Yum From HelAustralia,-3630.05,Uncategorised,
+25 Mar 24,-91.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-3538.09,Personal care,Eastwood Thai Massage & Spa
+25 Mar 24,-69.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-3447.09,Shopping,Amazon
+25 Mar 24,-55.00,Card ending 2633, ,CREDIT CARD PURCHASE,ACCPAC PTY LTD BARDWELL PARK,-3378.09,Services,Accpac Pty Ltd
+25 Mar 24,-457.00,Card ending 2633, ,CREDIT CARD PURCHASE,Appliances Online Sydney,-3323.09,Shopping,Appliances Online
+22 Mar 24,-7.80,Card ending 2633, ,CREDIT CARD PURCHASE,ROMEOS FOODHALL IGA SYDNEY,-2866.09,Groceries,Romeos IGA Food Hall (MLC Centre)
+22 Mar 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SKITTLE LANE Pyrmont,-2858.29,Food & drink,Skittle Lane (Sydney CBD)
+21 Mar 24,-2.20,Card ending 2633, ,CREDIT CARD PURCHASE,WW METRO/189 PITT STREET SYDNEY,-2853.29,Groceries,Woolworths Metro (Pitt St Mall)
+20 Mar 24,-10.70,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-2851.09,Groceries,Woolworths (Eastwood)
+20 Mar 24,-1517.00,Card ending 2633, ,CREDIT CARD PURCHASE,Appliances Online Sydney,-2840.39,Shopping,Appliances Online
+20 Mar 24,-150.00,Card ending 2633, ,CREDIT CARD PURCHASE,360 DENTAL CARE PTY LT EASTWOOD,-1323.39,Health,360 Dental Care
+19 Mar 24,-8.11,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-1173.39,Groceries,Woolworths (Eastwood)
+19 Mar 24,-32.00,Card ending 2633, ,CREDIT CARD PURCHASE,FB AU PTY LTD EASTWOOD,-1165.28,Home,FB AU Pty Ltd
+19 Mar 24,-24.26,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-1133.28,Food & drink,Boom Cafe (Eastwood)
+19 Mar 24,-89.00,Card ending 2633, ,CREDIT CARD PURCHASE,IKEA RHODES RHODES,-1109.02,Home,IKEA (Rhodes Waterside)
+18 Mar 24,-6.90,Card ending 2633, ,CREDIT CARD PURCHASE,THE MOO EASTWOOD PTY Eastwood,-1020.02,Food & drink,The Moo (Eastwood)
+18 Mar 24,-4.57,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-1013.12,Food & drink,Jones St Cafe
+18 Mar 24,-32.99,Card ending 2633, ,CREDIT CARD PURCHASE,Google YouTubePremium Pyrmont,-1008.55,Subscriptions,YouTube
+18 Mar 24,-32.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-975.56,Food & drink,Cafe Kappuccino
+18 Mar 24,-21.32,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-943.56,Food & drink,Jones St Cafe
+18 Mar 24,-19.19,Card ending 2633, ,CREDIT CARD PURCHASE,X PLAZA PTY LTD EASTWOOD,-922.24,Home,X Plaza
+18 Mar 24,-15.09,Card ending 2633, ,CREDIT CARD PURCHASE,IKU WHOLEFOOD MLC Sydney,-903.05,Food & drink,Iku Wholefood (MLC Centre)
+18 Mar 24,-55.92,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Noble House SeafAustralia,-887.96,Uncategorised,
+18 Mar 24,-169.00,Card ending 2633, ,CREDIT CARD PURCHASE,COLES 0710 SYDNEY,-832.04,Groceries,Coles (World Square)
+18 Mar 24,-148.00,Card ending 2633, ,CREDIT CARD PURCHASE,FB AU PTY LTD EASTWOOD,-663.04,Home,FB AU Pty Ltd
+18 Mar 24,-109.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-515.04,Shopping,Amazon
+15 Mar 24,-119.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-406.04,Shopping,Amazon
+15 Mar 24,-81.60,Card ending 2633, ,CREDIT CARD PURCHASE,ASSEMBLY NOW PTY LTD MALVERN EAST,-287.04,Home,Assembly Now
+13 Mar 24,-36.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-205.44,Shopping,Amazon
+13 Mar 24,-13.73,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Zilia Australia,-168.45,Shopping,Shopback Australia
+13 Mar 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HAVEN SPECIALTY COFFEUltimo,-154.72,Food & drink,Haven Specialty Coffee
+13 Mar 24,4671.61,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-149.72,Internal transfers,
+11 Mar 24,-125.44,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-4821.33,Shopping,PayPal
+11 Mar 24,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Systems Pty Ltd Sydney,-4695.89,Shopping,Adobe Systems
+08 Mar 24,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-4681.60,Subscriptions,Amazon Prime
+04 Mar 24,-4.57,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-4671.61,Food & drink,Jones St Cafe
+04 Mar 24,0.00,Card ending 2633, ,INFO TRANS ONLY - AMT EXCLUDED FROM BAL,DISPUTE ITEM RESOLVED - $798.70,-4667.04,Uncategorised,
+28 Feb 24,-27.98,Card ending 2633, ,CREDIT CARD PURCHASE,CHEMIST WAREHOUSE EASTWOOD,-4667.04,Health,Chemist Warehouse (Eastwood)
+28 Feb 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4639.06,Food & drink,Chaffee House
+27 Feb 24,-2.00,Card ending 2633, ,CREDIT CARD PURCHASE,CITYOFSYDNEY PARKING SYDNEY,-4634.56,Transport,City of Sydney (Parking)
+26 Feb 24,-115.51,Card ending 2633, ,CREDIT CARD PURCHASE,NOBLE HOUSE PTY LTD EASTWOOD,-4632.56,Food & drink,Noble House Seafood Restaurant
+26 Feb 24,-62.00,Card ending 2633, ,CREDIT CARD PURCHASE,TANG SPA PTY LTD DOCKLANDS,-4517.05,Personal care,Tang Spa Beauty & Massage
+26 Feb 24,-23.35,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Mochi Donuts Australia,-4455.05,Shopping,Shopback Australia
+26 Feb 24,-19.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-4431.70,Food & drink,Mamak (Haymarket)
+26 Feb 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HAVEN SPECIALTY COFFEHaymarket,-4412.20,Food & drink,Haven Specialty Coffee (Haymarket)
+23 Feb 24,-750.00,Card ending 2633, ,CREDIT CARD PURCHASE,YT GROUP PTY LTD SILVERWATER,-4407.20,Home,YT Group
+23 Feb 24,-37.00,Card ending 2633, ,CREDIT CARD PURCHASE,WAYNE MASSAGE PTY LTD SYDNEY,-3657.20,Personal care,WAYNE MASSAGE PTY LTD
+23 Feb 24,-16.24,Card ending 2633, ,CREDIT CARD PURCHASE,ShopBack Happy Chef NoodlAustralia,-3620.20,Food & drink,Happy Chef Noodle Bar
+23 Feb 24,-14.69,Card ending 2633, ,CREDIT CARD PURCHASE,Cali Press Pty Ltd Sydney,-3603.96,Food & drink,Cali Press
+22 Feb 24,-61.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-3589.27,Personal care,Eastwood Thai Massage & Spa
+22 Feb 24,-41.00,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-3528.27,Food & drink,Chaffee House
+22 Feb 24,-9.00,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-3487.27,Food & drink,Chaffee House
+22 Feb 24,-8.04,Card ending 2633, ,CREDIT CARD PURCHASE,BONBONS BAKERY EASTWOOD,-3478.27,Groceries,Bonbons Bakery (Eastwood)
+21 Feb 24,-37.90,Card ending 2633, ,CREDIT CARD PURCHASE,OPORTO DARLINGHURST,-3470.23,Uncategorised,
+21 Feb 24,-8.14,Card ending 2633, ,CREDIT CARD PURCHASE,BONBONS BAKERY EASTWOOD,-3432.33,Groceries,Bonbons Bakery (Eastwood)
+20 Feb 24,-50.55,Card ending 2633, ,CREDIT CARD PURCHASE,GINGER AND SHALLOTS EASTWOOD,-3424.19,Food & drink,Ginger & Shallots Chinese Cuisine
+16 Feb 24,-40.00,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/GRAF AVE & MARWEST RYDE,-3373.64,Groceries,Woolworths (West Ryde Marketplace)
+16 Feb 24,-32.99,Card ending 2633, ,CREDIT CARD PURCHASE,Google YouTubePremium Pyrmont,-3333.64,Subscriptions,YouTube
+16 Feb 24,-24.87,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-3300.65,Food & drink,Boom Cafe (Eastwood)
+16 Feb 24,1729.90,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-3275.78,Internal transfers,
+15 Feb 24,-1474.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE GOOD GUYS WEB STORE SOUTHBANK,-5005.68,Shopping,The Good Guys
+15 Feb 24,-1432.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE GOOD GUYS WEB STORE SOUTHBANK,-3531.68,Shopping,The Good Guys
+15 Feb 24,-14.90,Card ending 2633, ,CREDIT CARD PURCHASE,JATPURA PTY LTD BLACKTOWN,-2099.68,Food & drink,Jatpura Pty Ltd
+15 Feb 24,-8.90,Card ending 2633, ,CREDIT CARD PURCHASE,JATPURA PTY LTD BLACKTOWN,-2084.78,Food & drink,Jatpura Pty Ltd
+13 Feb 24,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-2075.88,Transport,Linkt
+12 Feb 24,-55.00,Card ending 2633, ,CREDIT CARD PURCHASE,BLUE MOON HEALTH TREAT EASTWOOD,-2055.71,Personal care,Blue Moon Massage
+12 Feb 24,-33.00,Card ending 2633, ,CREDIT CARD PURCHASE,BLUE MOON HEALTH TREAT EASTWOOD,-2000.71,Personal care,Blue Moon Massage
+09 Feb 24,-116.96,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-1967.71,Shopping,PayPal
+09 Feb 24,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Systems Pty Ltd Sydney,-1850.75,Shopping,Adobe Systems
+09 Feb 24,-14.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD MART EASTWOOD,-1836.46,Groceries,Eastwood Mart
+08 Feb 24,-69.00,Card ending 2633, ,CREDIT CARD PURCHASE,CLASSPASS* MONTHLY CLASSPASS.COMMT,-1822.46,Health,Classpass
+08 Feb 24,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-1753.46,Subscriptions,Amazon Prime
+08 Feb 24,-2.07,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (SC),-1743.47,Fees,
+07 Feb 24,-11.50,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-1741.40,Food & drink,Edition Coffee Roasters
+06 Feb 24,-76.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-1729.90,Personal care,Eastwood Thai Massage & Spa
+06 Feb 24,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-1653.90,Transport,Linkt
+06 Feb 24,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-1633.73,Food & drink,Machi Machi (Eastwood)
+02 Feb 24,-18.00,Card ending 2633, ,CREDIT CARD PURCHASE,KACANG PUTIH MALAYSIAN CASTLE HILL,-1625.61,Food & drink,Kacang Putih Malaysian Delights Pty Ltd
+01 Feb 24,-61.00,Card ending 2633, ,CREDIT CARD PURCHASE,ESSENTIAL THAI PTY LTD EASTWOOD,-1607.61,Uncategorised,
+01 Feb 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-1546.61,Food & drink,Chaffee House
+31 Jan 24,-15.30,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *JIAN BING Eastwood,-1542.11,Shopping,Square
+30 Jan 24,-74.11,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-1526.81,Shopping,Amazon
+30 Jan 24,-29.00,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*Aslan Coffee St P St Peters,-1452.70,Shopping,Smartpay Australia
+30 Jan 24,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-1423.70,Transport,Linkt
+30 Jan 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*Aslan Coffee St P St Peters,-1403.53,Shopping,Smartpay Australia
+29 Jan 24,-4.90,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*10000 Lab Eastwood,-1399.03,Food & drink,10000 Lab
+22 Jan 24,-181.85,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ALT BREWING 4029357733,-1394.13,Food & drink,Alternative Brewing
+22 Jan 24,-85.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE SPICE LOUNGE INDIA PYRMONT,-1212.28,Food & drink,The Spice Lounge Indian Cuisine
+22 Jan 24,-65.97,Card ending 2633, ,CREDIT CARD PURCHASE,Mikazuki City HAYMARKET,-1127.28,Food & drink,Mikazuki (Haymarket)
+22 Jan 24,-25.99,Card ending 2633, ,CREDIT CARD PURCHASE,Chatime WW Point Wentworth Poi,-1061.31,Food & drink,Chatime (Wentworth Point)
+22 Jan 24,-16.50,Card ending 2633, ,CREDIT CARD PURCHASE,MAD MEX FRESH MEXICA SYDNEY,-1035.32,Food & drink,Mad Mex (Harbourside)
+22 Jan 24,-10.60,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SKITTLE LANE Sydney,-1018.82,Food & drink,Skittle Lane (Sydney CBD)
+22 Jan 24,-6.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-1008.22,Food & drink,Edition Coffee Roasters
+22 Jan 24,-2.70,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-1002.22,Groceries,Locali By Romeo's
+19 Jan 24,-5.50,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-999.52,Food & drink,Edition Coffee Roasters
+19 Jan 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-994.02,Food & drink,Edition Coffee Roasters
+19 Jan 24,-4.90,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*10000 Lab Eastwood,-989.02,Food & drink,10000 Lab
+18 Jan 24,-12.18,Card ending 2633, ,CREDIT CARD PURCHASE,THE MAX JOY CO EASTWOOD,-984.12,Food & drink,The MAX Joy Co
+17 Jan 24,-32.99,Card ending 2633, ,CREDIT CARD PURCHASE,Google YouTubePremium Barangaroo,-971.94,Subscriptions,YouTube
+17 Jan 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-938.95,Food & drink,Chaffee House
+16 Jan 24,-15.23,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*The Taste of Cho Haymarket,-934.45,Food & drink,The Taste of Cho
+16 Jan 24,-9.14,Card ending 2633, ,CREDIT CARD PURCHASE,J & R 99 PTY LTD HAYMARKET,-919.22,Groceries,The Trustee for J & R 99 TRUST
+16 Jan 24,-9.13,Card ending 2633, ,CREDIT CARD PURCHASE,OH SUSHI SYD PTY LTD HAYMARKET,-910.08,Food & drink,Oh Sushi Syd
+16 Jan 24,-8.63,Card ending 2633, ,CREDIT CARD PURCHASE,Caffeine Cartel Sydney,-900.95,Food & drink,Caffeine Cartel
+16 Jan 24,-4.94,Card ending 2633, ,CREDIT CARD PURCHASE,CITYOFSYDNEY PARKING SYDNEY,-892.32,Transport,City of Sydney (Parking)
+16 Jan 24,4055.07,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-887.38,Internal transfers,
+15 Jan 24,-77.14,Card ending 2633, ,CREDIT CARD PURCHASE,CUISINE YUZU PTY. LTD. PYRMONT,-4942.45,Food & drink,Cuisine Yuzu Pty Ltd
+15 Jan 24,-48.80,Card ending 2633, ,CREDIT CARD PURCHASE,KMALL09 EASTWOOD,-4865.31,Shopping,KMALL09
+15 Jan 24,-41.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-4816.51,Food & drink,The Q on Harris
+15 Jan 24,-17.31,Card ending 2633, ,CREDIT CARD PURCHASE,North Sandwich&Burger Chippendale,-4775.51,Food & drink,North Sandwiches (Bridge Street)
+15 Jan 24,-17.24,Card ending 2633, ,CREDIT CARD PURCHASE,Malay Malay HAYMARKET,-4758.20,Food & drink,Malay Malay
+15 Jan 24,-8.63,Card ending 2633, ,CREDIT CARD PURCHASE,MachiMachi DSQ Haymarket,-4740.96,Food & drink,Machi Machi (Darling Square)
+15 Jan 24,-8.50,Card ending 2633, ,CREDIT CARD PURCHASE,OLD TOWN DELIGHTS MASCOT,-4732.33,Food & drink,Old Town Delights Thai Food
+15 Jan 24,-7.50,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HAVEN SPECIALTY COFFEHaymarket,-4723.83,Food & drink,Haven Specialty Coffee (Haymarket)
+15 Jan 24,-4.57,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-4716.33,Food & drink,Jones St Cafe
+12 Jan 24,-92.23,Card ending 2633, ,CREDIT CARD PURCHASE,SDRO INFRNGMNT PAYME MAITLAND,-4711.76,Bills,Revenue NSW (Penalty & Fines)
+12 Jan 24,-35.42,Card ending 2633, ,CREDIT CARD PURCHASE,Rice & Curry Pyrmont,-4619.53,Food & drink,Rice & Curry
+12 Jan 24,-7.09,Card ending 2633, ,CREDIT CARD PURCHASE,THE MOO EASTWOOD PTY Eastwood,-4584.11,Food & drink,The Moo (Eastwood)
+12 Jan 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4577.02,Food & drink,Chaffee House
+11 Jan 24,-22.99,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *NETFLIX AUS 4029357733,-4572.52,Subscriptions,Netflix
+11 Jan 24,-17.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-4549.53,Food & drink,Mamak (Haymarket)
+11 Jan 24,-4.89,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *BLACK & WHITE ESPRESSSydney,-4532.03,Food & drink,Black & White Espresso
+10 Jan 24,-116.96,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-4527.14,Shopping,PayPal
+10 Jan 24,-19.29,Card ending 2633, ,CREDIT CARD PURCHASE,MF EASTWOOD PTY LTD EASTWOOD,-4410.18,Food & drink,Meet Fresh (Eastwood)
+10 Jan 24,-6.50,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SKITTLE LANE Sydney,-4390.89,Food & drink,Skittle Lane (Sydney CBD)
+09 Jan 24,-75.22,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*Tatsuya West Ryde West Ryde,-4384.39,Shopping,Smartpay Australia
+09 Jan 24,-31.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4309.17,Food & drink,Chaffee House
+09 Jan 24,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Systems Pty Ltd Sydney,-4277.67,Shopping,Adobe Systems
+09 Jan 24,-12.90,Card ending 2633, ,CREDIT CARD PURCHASE,MCDONALDS WYNYARD RL SYDNEY,-4263.38,Food & drink,McDonald's (Wynyard Railway)
+09 Jan 24,-10.99,Card ending 2633, ,CREDIT CARD PURCHASE,CHEMIST WAREHOUSE EASTWOOD,-4250.48,Health,Chemist Warehouse (Eastwood)
+09 Jan 24,-7.40,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-4239.49,Groceries,Locali By Romeo's
+09 Jan 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-4232.09,Food & drink,Edition Coffee Roasters
+09 Jan 24,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4227.09,Food & drink,Chaffee House
+08 Jan 24,-83.90,Card ending 2633, ,CREDIT CARD PURCHASE,Myhealth Eastwood Eastwood,-4222.59,Health,MyHealth Medical Centre (Eastwood)
+08 Jan 24,-35.00,Card ending 2633, ,CREDIT CARD PURCHASE,N G COSTI PTY LTD DROUIN SOUTH,-4138.69,Transport,Rainbow Hand Car Wash & Cafe
+08 Jan 24,-16.24,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-4103.69,Food & drink,Boom Cafe (Eastwood)
+08 Jan 24,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-4087.45,Subscriptions,Amazon Prime
+08 Jan 24,-9.64,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-4077.46,Food & drink,Boom Cafe (Eastwood)
+08 Jan 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HAVEN SPECIALTY COFFEHaymarket,-4067.82,Food & drink,Haven Specialty Coffee (Haymarket)
+08 Jan 24,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,CLASSPASS* MONTHLY CLASSPASS.COMMT,-4062.82,Health,Classpass
+08 Jan 24,-2.60,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-4057.82,Groceries,Woolworths (Eastwood)
+08 Jan 24,-0.15,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (SC),-4055.22,Fees,
+05 Jan 24,-179.14,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *SYDNEYWATER 4029357733,-4055.07,Bills,Sydney Water
+05 Jan 24,-61.71,Card ending 2633, ,CREDIT CARD PURCHASE,HAKATA GENSUKE REGENT SYDNEY,-3875.93,Food & drink,Hakata Gensuke (Regent Place)
+05 Jan 24,-19.29,Card ending 2633, ,CREDIT CARD PURCHASE,MF EASTWOOD PTY LTD EASTWOOD,-3814.22,Food & drink,Meet Fresh (Eastwood)
+05 Jan 24,-7.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-3794.93,Food & drink,Edition Coffee Roasters
+03 Jan 24,-159.98,Card ending 2633, ,CREDIT CARD PURCHASE,SP BAHE YOGA ROSEBERY,-3787.93,Shopping,BAHE Yoga
+03 Jan 24,-77.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-3627.95,Personal care,Eastwood Thai Massage & Spa
+03 Jan 24,-17.74,Card ending 2633, ,CREDIT CARD PURCHASE,KHAOKANG MARUAY SYDNEY,-3550.95,Food & drink,Khao Kang Maruay
+02 Jan 24,-363.91,Card ending 2633, ,CREDIT CARD PURCHASE,TOKO RESTAURANT Sydney,-3533.21,Food & drink,Toko Restaurant
+02 Jan 24,-122.00,Card ending 2633, ,CREDIT CARD PURCHASE,FORTUNE RECIPE Eastwood,-3169.30,Services,Fortune Recipe Pty Ltd
+02 Jan 24,-50.60,Card ending 2633, ,CREDIT CARD PURCHASE,Edition Roasters Haymarket,-3047.30,Food & drink,Edition Coffee Roasters
+02 Jan 24,-33.64,Card ending 2633, ,CREDIT CARD PURCHASE,THAI KEE IGA SUPERMA HAYMARKET,-2996.70,Groceries,Thai Kee IGA (Market City)
+02 Jan 24,-25.17,Card ending 2633, ,CREDIT CARD PURCHASE,OLD SCHOOL 88 PTY LTD HAYMARKET,-2963.06,Food & drink,Old School Kafey
+02 Jan 24,-21.02,Card ending 2633, ,CREDIT CARD PURCHASE,INEFFABLE CLASSICS Eastwood,-2937.89,Food & drink,Ineffable Classics Pty Ltd
+02 Jan 24,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-2916.87,Transport,Linkt
+02 Jan 24,-17.26,Card ending 2633, ,CREDIT CARD PURCHASE,Top Impression Bakery Chippendale,-2896.70,Groceries,Top Impression Bakery Cafe (Mascot)
+02 Jan 24,-13.57,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *UBER AU 4029357733,-2879.44,Transport,Uber
+29 Dec 23,-92.50,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *NEWBALANCEA 4029357733,-2865.87,Shopping,New Balance
+29 Dec 23,-78.50,Card ending 2633, ,CREDIT CARD PURCHASE,GETSU AT BOWRAL PTY LT BOWRAL,-2773.37,Food & drink,Getsu Japanese Restaurant & Cafe
+29 Dec 23,-22.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE GUMNUT PATISSERI Mittagong,-2694.87,Groceries,Gumnut Patisserie (Mittagong)
+29 Dec 23,-3.50,Card ending 2633, ,CREDIT CARD PURCHASE,THE GUMNUT PATISSERI Mittagong,-2672.87,Groceries,Gumnut Patisserie (Mittagong)
+29 Dec 23,-3.50,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROSECOE ST & OMITTAGONG,-2669.37,Groceries,Woolworths (Highlands Marketplace)
+29 Dec 23,300.00,Card ending 2633, ,CREDIT CARD REFUND,Kogan.com PQR7KLDA Melbourne,-2665.87,Other income,Kogan.com
+28 Dec 23,-96.43,Card ending 2633, ,CREDIT CARD PURCHASE,BP BEXLEY NORTH 7903 BEXLEY,-2965.87,Transport,BP (Bexley North)
+28 Dec 23,-52.00,Card ending 2633, ,CREDIT CARD PURCHASE,LIQUORLAND 2988 BOWRAL,-2869.44,Uncategorised,Liquorland (Bowral)
+28 Dec 23,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-2817.44,Transport,Linkt
+28 Dec 23,-19.80,Card ending 2633, ,CREDIT CARD PURCHASE,SUSHI HUB EASTWOOD EASTWOOD,-2797.27,Food & drink,Sushi Hub (Eastwood)
+28 Dec 23,-16.24,Card ending 2633, ,CREDIT CARD PURCHASE,SIROO CAFE PTY LTD WEST RYDE,-2777.47,Food & drink,Siroo Rice Cake Cafe
+28 Dec 23,-8.00,Card ending 2633, ,CREDIT CARD PURCHASE,CITYOFSYDNEY PARKING SYDNEY,-2761.23,Transport,City of Sydney (Parking)
+27 Dec 23,-165.53,Card ending 2633, ,CREDIT CARD PURCHASE,Bonds Outlet Market City Haymarket,-2753.23,Shopping,Bonds (Market City)
+27 Dec 23,-26.60,Card ending 2633, ,CREDIT CARD PURCHASE,JUWON BUTCHERY WEST RYDE,-2587.70,Groceries,Juwon Butchery
+27 Dec 23,-24.03,Card ending 2633, ,CREDIT CARD PURCHASE,FREEZIUM MARKET WEST RYDE,-2561.10,Groceries,Freezium
+27 Dec 23,-20.30,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-2537.07,Food & drink,Boom Cafe (Eastwood)
+27 Dec 23,-16.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *DIRTY RED Camperdown,-2516.77,Food & drink,Dirty Red (Glebe)
+27 Dec 23,-9.38,Card ending 2633, ,CREDIT CARD PURCHASE,SAVOY CAKE EASTWOOD Eastwood,-2500.77,Food & drink,Savoy Cake (Eastwood)
+21 Dec 23,-32.87,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-2491.39,Groceries,Woolworths (Eastwood)
+21 Dec 23,-21.15,Card ending 2633, ,CREDIT CARD PURCHASE,L & W MEAT EASTWOOD,-2458.52,Groceries,L & W Meat
+21 Dec 23,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-2437.37,Transport,Linkt
+21 Dec 23,-15.69,Card ending 2633, ,CREDIT CARD PURCHASE,DAVELLES BAKERY EPPING,-2417.20,Groceries,Davelle's Bakery
+21 Dec 23,-13.37,Card ending 2633, ,CREDIT CARD PURCHASE,BONBONS BAKERY EASTWOOD,-2401.51,Groceries,Bonbons Bakery (Eastwood)
+20 Dec 23,-119.00,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *LULULEMONAT 4029357733,-2388.14,Shopping,Lululemon Athletica (Collingwood - Head Office)
+20 Dec 23,-80.00,Card ending 2633, ,CREDIT CARD PURCHASE,HEALTH SQ EPPING,-2269.14,Health,Health SQ
+19 Dec 23,-22.80,Card ending 2633, ,CREDIT CARD PURCHASE,MCDONALDS WEST RYDE WEST RYDE,-2189.14,Food & drink,McDonald's (West Ryde)
+19 Dec 23,-18.20,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-2166.34,Groceries,Woolworths (Eastwood)
+18 Dec 23,-144.84,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-2148.14,Shopping,Amazon
+18 Dec 23,-56.80,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *COFFEE ALCH 4029357733,-2003.30,Groceries,PayPal
+18 Dec 23,-49.95,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-1946.50,Shopping,Amazon
+18 Dec 23,-33.90,Card ending 2633, ,CREDIT CARD PURCHASE,Skewered Lawson,-1896.55,Food & drink,Skewered
+18 Dec 23,-17.76,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-1862.65,Food & drink,Machi Machi (Eastwood)
+18 Dec 23,-11.10,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-1844.89,Groceries,Woolworths (Eastwood)
+18 Dec 23,-10.08,Card ending 2633, ,CREDIT CARD PURCHASE,ALDI STORES - EASTWOOD EASTWOOD,-1833.79,Groceries,ALDI (Eastwood)
+18 Dec 23,-5.57,Card ending 2633, ,CREDIT CARD PURCHASE,Cortado Cafe Lawson,-1823.71,Food & drink,Cortado
+18 Dec 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,TRANSPORTFORNSW TAP SYDNEY,-1818.14,Transport,Transport NSW
+18 Dec 23,3687.89,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-1814.14,Internal transfers,
+15 Dec 23,-56.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-5502.03,Shopping,Amazon
+15 Dec 23,-29.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-5446.03,Shopping,Amazon
+15 Dec 23,-22.33,Card ending 2633, ,CREDIT CARD PURCHASE,CANTEEN TAIWAN Eastwood,-5416.04,Food & drink,Canteen Taiwan
+15 Dec 23,-16.43,Card ending 2633, ,CREDIT CARD PURCHASE,Stanley's DARLINGHURST,-5393.71,Uncategorised,
+15 Dec 23,-6.09,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-5377.28,Food & drink,Boom Cafe (Eastwood)
+14 Dec 23,-369.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-5371.19,Shopping,Amazon
+14 Dec 23,-62.00,Card ending 2633, ,CREDIT CARD PURCHASE,EASTWOOD THAI MASSAGE EASTWOOD,-5002.19,Personal care,Eastwood Thai Massage & Spa
+14 Dec 23,-44.80,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *RMECOM 35314369001,-4940.19,Shopping,PayPal
+14 Dec 23,-1.34,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (SC),-4895.39,Fees,
+13 Dec 23,-87.00,Card ending 2633, ,CREDIT CARD PURCHASE,HEALTH SQ EPPING,-4894.05,Health,Health SQ
+13 Dec 23,-24.00,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-4807.05,Shopping,Amazon
+13 Dec 23,-7.16,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-4783.05,Shopping,Amazon
+12 Dec 23,-52.98,Card ending 2633, ,CREDIT CARD PURCHASE,PETBARN WEST RYDE,-4775.89,Pets,Petbarn (West Ryde)
+12 Dec 23,-48.66,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-4722.91,Groceries,Woolworths (Eastwood)
+12 Dec 23,-40.50,Card ending 2633, ,CREDIT CARD PURCHASE,BWS LIQUOR/EASTWOOD VLG SEASTWOOD,-4674.25,Uncategorised,BWS (Eastwood NSW)
+12 Dec 23,-36.06,Card ending 2633, ,CREDIT CARD PURCHASE,FIRESTONE EASTWOOD EASTWOOD,-4633.75,Food & drink,Firestone
+12 Dec 23,-20.17,Card ending 2633, ,CREDIT CARD PURCHASE,LINKT SYDNEY SYDNEY,-4597.69,Transport,Linkt
+12 Dec 23,-17.26,Card ending 2633, ,CREDIT CARD PURCHASE,THE MAX JOY CO EASTWOOD,-4577.52,Food & drink,The MAX Joy Co
+12 Dec 23,-14.97,Card ending 2633, ,CREDIT CARD PURCHASE,SAKURA MARKET EASTWOOD,-4560.26,Groceries,Sakura Supermarket
+12 Dec 23,-8.54,Card ending 2633, ,CREDIT CARD PURCHASE,BONBONS BAKERY EASTWOOD,-4545.29,Groceries,Bonbons Bakery (Eastwood)
+12 Dec 23,-5.80,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4536.75,Food & drink,Chaffee House
+11 Dec 23,-346.89,Card ending 2633, ,CREDIT CARD PURCHASE,AUTHORIZATION SYDNEY,-4530.95,Travel,Expedia
+11 Dec 23,-116.96,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *ROLLIN*INSU IN 4029357733,-4184.06,Shopping,PayPal
+11 Dec 23,-69.79,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-4067.10,Shopping,Amazon
+11 Dec 23,-67.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-3997.31,Shopping,Amazon
+11 Dec 23,-22.49,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON AU SYDNEY SOUTH,-3929.32,Shopping,Amazon
+11 Dec 23,-20.22,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SHOGUN ULTIMO Ultimo,-3906.83,Food & drink,Ramen Shogun Ultimo
+11 Dec 23,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,ADOBE PRODUCTS Sydney,-3886.61,Shopping,Adobe Systems
+11 Dec 23,-13.45,Card ending 2633, ,CREDIT CARD PURCHASE,KFC ERMINGTON ERMINGTON,-3872.32,Food & drink,KFC (Ermington)
+11 Dec 23,-11.34,Card ending 2633, ,CREDIT CARD PURCHASE,LIVE GROUP/8/1 PROGRESS AEASTWOOD,-3858.87,Groceries,Eastwood Village Superfresh
+11 Dec 23,-5.80,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-3847.53,Food & drink,Chaffee House
+11 Dec 23,-3.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *BEANS N CO Pyrmont,-3841.73,Food & drink,Beans n Co
+08 Dec 23,-38.56,Card ending 2633, ,CREDIT CARD PURCHASE,Malay Malay HAYMARKET,-3838.53,Food & drink,Malay Malay
+08 Dec 23,-25.00,Card ending 2633, ,CREDIT CARD PURCHASE,KOGAN MOBILE NORTH SYDNEY,-3799.97,Bills,Kogan Mobile
+08 Dec 23,-10.99,Card ending 2633, ,CREDIT CARD PURCHASE,LOCALI BY ROMEOS SYDNEY,-3774.97,Groceries,Locali By Romeo's
+08 Dec 23,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-3763.98,Subscriptions,Amazon Prime
+08 Dec 23,-6.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *GUMPTION COFFEE Sydney,-3753.99,Food & drink,Gumption by Coffee Alchemy
+08 Dec 23,-5.08,Card ending 2633, ,CREDIT CARD PURCHASE,EMPERORS GARDEN PTY HAYMARKET,-3747.99,Food & drink,Emperors Garden Restaurant
+07 Dec 23,-21.62,Card ending 2633, ,CREDIT CARD PURCHASE,MF EASTWOOD PTY LTD EASTWOOD,-3742.91,Food & drink,Meet Fresh (Eastwood)
+07 Dec 23,-18.90,Card ending 2633, ,CREDIT CARD PURCHASE,Grilld Pty Ltd Richmond,-3721.29,Food & drink,Grill'd
+07 Dec 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,KOGAN MOBILE NORTH SYDNEY,-3702.39,Bills,Kogan Mobile
+07 Dec 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-3697.39,Food & drink,Edition Coffee Roasters
+07 Dec 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *GUMPTION COFFEE Sydney,-3692.39,Food & drink,Gumption by Coffee Alchemy
+06 Dec 23,-300.00,Card ending 2633, ,CREDIT CARD PURCHASE,Kogan.com PQR7KLDA Melbourne,-3687.89,Shopping,Kogan.com
+06 Dec 23,-75.96,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-3387.89,Shopping,Amazon
+06 Dec 23,-11.80,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-3311.93,Groceries,Woolworths (Eastwood)
+06 Dec 23,-4.90,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*10000 Lab Eastwood,-3300.13,Food & drink,10000 Lab
+06 Dec 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,TOO MUCH HAPPINESS PTY LTEASTWOOD,-3295.23,Food & drink,Coffee Root
+04 Dec 23,-49.76,Card ending 2633, ,CREDIT CARD PURCHASE,YOUNG DABANG HAYMARKET HAYMARKET,-3291.23,Food & drink,Young Dabang (Haymarket)
+04 Dec 23,-49.00,Card ending 2633, ,CREDIT CARD PURCHASE,SYDNEY PARTY DECORAT SYDNEY,-3241.47,Shopping,Sydney Party Decorations (Mascot)
+04 Dec 23,-16.50,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/WESTFIELD CAMPPARRAMATTA,-3192.47,Groceries,Woolworths Metro (Westfield Parramatta)
+04 Dec 23,-15.30,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *TOMATO ART Burwood,-3175.97,Shopping,Square
+04 Dec 23,-10.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *CAFE QUEENZ Ultimo,-3160.67,Food & drink,Cafe Queenz
+04 Dec 23,-8.80,Card ending 2633, ,CREDIT CARD PURCHASE,IKEA TEMPE TEMPE,-3150.67,Home,IKEA (Tempe)
+04 Dec 23,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-3141.87,Food & drink,Machi Machi (Eastwood)
+04 Dec 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-3133.75,Food & drink,Chaffee House
+04 Dec 23,-3.80,Card ending 2633, ,CREDIT CARD PURCHASE,IKEA TEMPE TEMPE,-3129.25,Home,IKEA (Tempe)
+04 Dec 23,22.46,Card ending 2633, ,MISCELLANEOUS CREDIT,NAB INTNL TRN FEE REV -MC,-3125.45,Other income,National Australia Bank
+04 Dec 23,748.50,Card ending 2633, ,CREDIT CARD REFUND,NOMADIC ID LONDON,-3147.91,Other income,
+01 Dec 23,-40.00,Card ending 2633, ,CREDIT CARD PURCHASE,BODYWORK AUSTRALIA P SYDNEY,-3896.41,Personal care,Raffine Tokyo
+01 Dec 23,-17.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-3856.41,Food & drink,Mamak (Haymarket)
+01 Dec 23,-12.63,Card ending 2633, ,CREDIT CARD PURCHASE,LA VIGNE BAKERY EASTWOOD,-3838.91,Groceries,La Vigne Bakery
+01 Dec 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-3826.28,Food & drink,The Q on Harris
+30 Nov 23,-890.00,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *LVMHFASHION 4029357733,-3822.28,Shopping,PayPal
+30 Nov 23,-555.99,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *HANESAUSTRA 83 0388621400,-2932.28,Shopping,PayPal
+30 Nov 23,-17.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2376.29,Food & drink,Edition Coffee Roasters
+30 Nov 23,-14.67,Card ending 2633, ,CREDIT CARD PURCHASE,Kurtosh Darling Sq Sydney,-2359.29,Food & drink,Kurtosh (Darling Square)
+30 Nov 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-2344.62,Food & drink,Portafilter Specialty Coffee
+30 Nov 23,-2.49,Card ending 2633, ,CREDIT CARD PURCHASE,XIANGYAO ASIAN SUPERMA EASTWOOD,-2340.62,Groceries,Happigo Supermarket
+29 Nov 23,-87.00,Card ending 2633, ,CREDIT CARD PURCHASE,HEALTH SQ EPPING,-2338.13,Health,Health SQ
+29 Nov 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2251.13,Food & drink,Edition Coffee Roasters
+29 Nov 23,86.98,Card ending 2633, ,CREDIT CARD REFUND,PAYPAL *LOBOCKI 4029357733,-2246.13,Other income,Lobocki
+28 Nov 23,-763.71,Card ending 2633, ,CREDIT CARD PURCHASE,NOMADIC ID LONDON,-2333.11,Uncategorised,
+28 Nov 23,-91.00,Card ending 2633, ,CREDIT CARD PURCHASE,RETAIL PRODIGY OPS PL NORTH RYDE,-1569.40,Shopping,Nike Australia (Macquarie)
+28 Nov 23,-22.91,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (MC),-1478.40,Fees,
+28 Nov 23,-15.88,Card ending 2633, ,CREDIT CARD PURCHASE,SAKURA MARKET EASTWOOD,-1455.49,Groceries,Sakura Supermarket
+28 Nov 23,-8.32,Card ending 2633, ,CREDIT CARD PURCHASE,J & R 99 PTY LTD HAYMARKET,-1439.61,Groceries,The Trustee for J & R 99 TRUST
+28 Nov 23,-5.80,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-1431.29,Food & drink,Chaffee House
+28 Nov 23,-2.24,Card ending 2633, ,CREDIT CARD PURCHASE,TRANSPORTFORNSW TAP SYDNEY,-1425.49,Transport,Transport NSW
+27 Nov 23,-145.00,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *THEGOODGUYS 4029357733,-1423.25,Shopping,The Good Guys
+27 Nov 23,-86.98,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *LOBOCKI 4029357733,-1278.25,Shopping,Lobocki
+27 Nov 23,-75.86,Card ending 2633, ,CREDIT CARD PURCHASE,RUNGNAPA KORNPAN WEST RYDE,-1191.27,Uncategorised,
+27 Nov 23,-37.74,Card ending 2633, ,CREDIT CARD PURCHASE,SAVOY CAKE EASTWOOD Eastwood,-1115.41,Food & drink,Savoy Cake (Eastwood)
+27 Nov 23,-32.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-1077.67,Food & drink,Cafe Kappuccino
+27 Nov 23,-24.00,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *BIG W 4029357733,-1045.67,Shopping,BIG W
+27 Nov 23,-22.69,Card ending 2633, ,CREDIT CARD PURCHASE,OFFICEWORKS 0230 WEST RYDE,-1021.67,Home,Officeworks (West Ryde)
+27 Nov 23,-16.77,Card ending 2633, ,CREDIT CARD PURCHASE,HMART GROUP PTY LTD EASTWOOD,-998.98,Groceries,Yonghui Supermarket
+27 Nov 23,-3.06,Card ending 2633, ,CREDIT CARD PURCHASE,SAVOY CAKE EASTWOOD Eastwood,-982.21,Food & drink,Savoy Cake (Eastwood)
+24 Nov 23,-39.69,Card ending 2633, ,CREDIT CARD PURCHASE,THAI KEE IGA SUPERMA HAYMARKET,-979.15,Groceries,Thai Kee IGA (Market City)
+24 Nov 23,-20.50,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-939.46,Groceries,Woolworths (Eastwood)
+24 Nov 23,-14.08,Card ending 2633, ,CREDIT CARD PURCHASE,Costis Fish and Chips Sydney,-918.96,Food & drink,Costi's Fish & Chips (Barangaroo)
+23 Nov 23,-15.99,Card ending 2633, ,CREDIT CARD PURCHASE,DAVELLES BAKERY EPPING,-904.88,Groceries,Davelle's Bakery
+23 Nov 23,-6.50,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-888.89,Food & drink,Edition Coffee Roasters
+23 Nov 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-882.39,Food & drink,Chaffee House
+22 Nov 23,-87.00,Card ending 2633, ,CREDIT CARD PURCHASE,HEALTH SQ EPPING,-877.89,Health,Health SQ
+22 Nov 23,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-790.89,Food & drink,Machi Machi (Eastwood)
+22 Nov 23,-6.09,Card ending 2633, ,CREDIT CARD PURCHASE,THE MAX JOY CO EASTWOOD,-782.77,Food & drink,The MAX Joy Co
+21 Nov 23,-97.00,Card ending 2633, ,CREDIT CARD PURCHASE,HEALTH SQ EPPING,-776.68,Health,Health SQ
+21 Nov 23,-39.33,Card ending 2633, ,CREDIT CARD PURCHASE,TAN VIET DARLG SQ PL HAYMARKET,-679.68,Food & drink,Tan Viet Noodle House
+21 Nov 23,-8.90,Card ending 2633, ,CREDIT CARD PURCHASE,RETAIL JUICE BARS PTY ULTIMO,-640.35,Food & drink,Boost Juice (Broadway)
+21 Nov 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-631.45,Food & drink,The Q on Harris
+20 Nov 23,-76.30,Card ending 2633, ,CREDIT CARD PURCHASE,THE MISSING PIECE FRENCHS FORES,-626.45,Food & drink,The Missing Piece
+20 Nov 23,-48.00,Card ending 2633, ,CREDIT CARD PURCHASE,COLES 0839 BROADWAY,-550.15,Groceries,Coles (Broadway Sydney)
+20 Nov 23,-12.99,Card ending 2633, ,CREDIT CARD PURCHASE,CAT & CLAUDIA'S PCY Broadway,-502.15,Health,Cat & Claudia's Community Pharmacy
+20 Nov 23,-8.10,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *LIM'S HOT BREAD Eastwood,-489.16,Groceries,Lim's Hot Bread (Eastwood)
+20 Nov 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-481.06,Food & drink,Chaffee House
+20 Nov 23,85.00,Card ending 2633, ,CREDIT CARD REFUND,PAYPAL *NSWBJJFEDER 4029357733,-476.56,Other income,PayPal
+17 Nov 23,-127.89,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-561.56,Food & drink,Boom Cafe (Eastwood)
+16 Nov 23,-105.75,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *BOOKTOPIABO 4029357733,-433.67,Shopping,Booktopia
+16 Nov 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-327.92,Food & drink,The Q on Harris
+16 Nov 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-322.92,Food & drink,Portafilter Specialty Coffee
+15 Nov 23,-35.91,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *ULTIMO KITCHEN Ultimo,-318.92,Food & drink,Ultimo Kitchen
+15 Nov 23,-11.86,Card ending 2633, ,CREDIT CARD PURCHASE,BONBONS BAKERY EASTWOOD,-283.01,Groceries,Bonbons Bakery (Eastwood)
+15 Nov 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-271.15,Food & drink,Chaffee House
+15 Nov 23,4200.00,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,-266.65,Internal transfers,
+14 Nov 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-4466.65,Food & drink,Chaffee House
+14 Nov 23,-4.43,Card ending 2633, ,CREDIT CARD PURCHASE,ORANGE SUPERMARKET WE WENTWORTH POI,-4462.15,Groceries,Orange Supermarket (Pierside Shopping Centre)
+13 Nov 23,-47.19,Card ending 2633, ,CREDIT CARD PURCHASE,Thang Long Restaurant Bankstown,-4457.72,Food & drink,Thang Long Restaurant
+13 Nov 23,-42.02,Card ending 2633, ,CREDIT CARD PURCHASE,Rice & Curry Pyrmont,-4410.53,Food & drink,Rice & Curry
+13 Nov 23,-41.51,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *OMEIO ARTISANAL DELI Darlinghurst,-4368.51,Groceries,Omeio
+13 Nov 23,-16.26,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*The Abangs Mascot,-4327.00,Shopping,Smartpay Australia
+13 Nov 23,-11.95,Card ending 2633, ,CREDIT CARD PURCHASE,KRISPY KREME TOWN HALL SYDNEY,-4310.74,Food & drink,Krispy Kreme (Sydney Town Hall)
+13 Nov 23,-8.06,Card ending 2633, ,CREDIT CARD PURCHASE,HO CHAK PTY LTD CHATSWOOD,-4298.79,Food & drink,Bao Dao Taiwanese Kitchen (Chatswood)
+13 Nov 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-4290.73,Food & drink,Jones St Cafe
+10 Nov 23,-11.40,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-4286.23,Food & drink,Portafilter Specialty Coffee
+10 Nov 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-4274.83,Food & drink,Portafilter Specialty Coffee
+09 Nov 23,-14.29,Card ending 2633, ,CREDIT CARD PURCHASE,Adobe Systems Pty Ltd Sydney,-4270.83,Shopping,Adobe Systems
+09 Nov 23,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-4256.54,Food & drink,Machi Machi (Eastwood)
+08 Nov 23,-25.00,Card ending 2633, ,CREDIT CARD PURCHASE,KOGAN MOBILE NORTH SYDNEY,-4248.42,Bills,Kogan Mobile
+08 Nov 23,-10.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *LIM'S HOT BREAD Eastwood,-4223.42,Groceries,Lim's Hot Bread (Eastwood)
+08 Nov 23,-10.00,Card ending 2633, ,CREDIT CARD PURCHASE,Breadtop Eastwood Eastwood,-4213.22,Groceries,Breadtop (Eastwood)
+07 Nov 23,-34.31,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-4203.22,Food & drink,Boom Cafe (Eastwood)
+07 Nov 23,-10.15,Card ending 2633, ,CREDIT CARD PURCHASE,CANTEEN TAIWAN Eastwood,-4168.91,Food & drink,Canteen Taiwan
+06 Nov 23,-55.83,Card ending 2633, ,CREDIT CARD PURCHASE,Uobei Lidcombe,-4158.76,Food & drink,Uobei
+06 Nov 23,-43.06,Card ending 2633, ,CREDIT CARD PURCHASE,EB *League of Legends 801-413-7200,-4102.93,Entertainment,Eventbrite
+06 Nov 23,-27.80,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-4059.87,Food & drink,Cafe Kappuccino
+06 Nov 23,-27.38,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *LETAO SYDNEY Sydney,-4032.07,Shopping,Square
+06 Nov 23,-22.09,Card ending 2633, ,CREDIT CARD PURCHASE,Gumshara Ramen Haymarket,-4004.69,Uncategorised,
+06 Nov 23,-17.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-3982.60,Food & drink,Portafilter Specialty Coffee
+06 Nov 23,-16.90,Card ending 2633, ,CREDIT CARD PURCHASE,Guzman y Gomez Sydney,-3965.60,Food & drink,Guzman Y Gomez (World Square)
+06 Nov 23,-15.29,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KIN LEN Eastwood,-3948.70,Shopping,Square
+06 Nov 23,-9.14,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-3933.41,Food & drink,Boom Cafe (Eastwood)
+06 Nov 23,-8.63,Card ending 2633, ,CREDIT CARD PURCHASE,MachiMachi DSQ Haymarket,-3924.27,Food & drink,Machi Machi (Darling Square)
+06 Nov 23,-5.50,Card ending 2633, ,CREDIT CARD PURCHASE,Edition Roasters Haymarket,-3915.64,Food & drink,Edition Coffee Roasters
+06 Nov 23,-4.03,Card ending 2633, ,CREDIT CARD PURCHASE,HO CHAK PTY LTD CHATSWOOD,-3910.14,Food & drink,Bao Dao Taiwanese Kitchen (Chatswood)
+06 Nov 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-3906.11,Food & drink,Portafilter Specialty Coffee
+06 Nov 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,TRANSPORTFORNSW TAP SYDNEY,-3902.11,Transport,Transport NSW
+03 Nov 23,-17.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-3898.11,Food & drink,Mamak (Haymarket)
+03 Nov 23,-1.05,Card ending 2633, ,CREDIT CARD PURCHASE,ALDI STORES - EASTWOOD EASTWOOD,-3880.61,Groceries,ALDI (Eastwood)
+02 Nov 23,-1194.84,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *DIGITALIMAG 01300889148,-3879.56,Shopping,PayPal
+02 Nov 23,-190.00,Card ending 2633, ,CREDIT CARD PURCHASE,OPEN SKY PSYCHOLOGY MELBOURNE,-2684.72,Health,Open Sky Psychology
+02 Nov 23,-57.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *18213987806 West Ryde,-2494.72,Shopping,Square
+02 Nov 23,-33.99,Card ending 2633, ,CREDIT CARD PURCHASE,OFFICEWORKS 0230 WEST RYDE,-2437.72,Home,Officeworks (West Ryde)
+02 Nov 23,-3.30,Card ending 2633, ,CREDIT CARD PURCHASE,OFFICEWORKS 0230 WEST RYDE,-2403.73,Home,Officeworks (West Ryde)
+02 Nov 23,-0.45,Card ending 2633, ,CREDIT CARD PURCHASE,OFFICEWORKS 0230 WEST RYDE,-2400.43,Home,Officeworks (West Ryde)
+02 Nov 23,23.43,Card ending 2633, ,MISCELLANEOUS CREDIT,NAB INTNL TRN FEE REV -MC,-2399.98,Other income,National Australia Bank
+02 Nov 23,781.01,Card ending 2633, ,CREDIT CARD REFUND,NOMADIC ID LONDON,-2423.41,Other income,
+01 Nov 23,0.00,Card ending 2633, ,INFO TRANS ONLY - AMT EXCLUDED FROM BAL,DISPUTE ITEM RAISED - $798.70,-3204.42,Uncategorised,
+31 Oct 23,-52.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *18213987806 West Ryde,-3204.42,Shopping,Square
+31 Oct 23,-23.35,Card ending 2633, ,CREDIT CARD PURCHASE,Ko-E Sushi WEST RYDE,-3152.42,Food & drink,Ko-E Sushi Buffet
+30 Oct 23,-797.70,Card ending 2633, ,CREDIT CARD PURCHASE,NOMADIC ID LONDON,-3129.07,Uncategorised,
+30 Oct 23,-37.35,Card ending 2633, ,CREDIT CARD PURCHASE,OGALO OXFORD ST Darlinghurst,-2331.37,Food & drink,Ogalo (Darlinghurst)
+30 Oct 23,-34.48,Card ending 2633, ,CREDIT CARD PURCHASE,MALAY MALAY SYDNEY,-2294.02,Food & drink,Malay Malay
+30 Oct 23,-23.93,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (MC),-2259.54,Fees,
+30 Oct 23,-20.29,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *LETAO SYDNEY Sydney,-2235.61,Shopping,Square
+30 Oct 23,-18.31,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *SWEETMONSTER Redfern,-2215.32,Food & drink,Sweet Monster
+30 Oct 23,-13.91,Card ending 2633, ,CREDIT CARD PURCHASE,YOMIE'S RICE X YOGURT Haymarket,-2197.01,Food & drink,Yomie's Rice X Yogurt (Haymarket)
+30 Oct 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-2183.10,Food & drink,Jones St Cafe
+30 Oct 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *PORTAFILTER Sydney,-2178.60,Food & drink,Portafilter Specialty Coffee
+27 Oct 23,-50.00,Card ending 2633, ,CREDIT CARD PURCHASE,OPEN SKY PSYCHOLOGY MELBOURNE,-2174.60,Health,Open Sky Psychology
+27 Oct 23,-18.24,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-2124.60,Food & drink,Mamak (Haymarket)
+27 Oct 23,-6.50,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2106.36,Food & drink,Edition Coffee Roasters
+27 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2099.86,Food & drink,Edition Coffee Roasters
+26 Oct 23,-17.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-2094.86,Food & drink,Mamak (Haymarket)
+26 Oct 23,-12.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-2077.36,Food & drink,Edition Coffee Roasters
+25 Oct 23,-50.45,Card ending 2633, ,CREDIT CARD PURCHASE,Boom Cafe Eastwood,-2065.36,Food & drink,Boom Cafe (Eastwood)
+25 Oct 23,-37.98,Card ending 2633, ,CREDIT CARD PURCHASE,AMAZON MARKETPLACE AU SYDNEY SOUTH,-2014.91,Shopping,Amazon
+25 Oct 23,-2.24,Card ending 2633, ,CREDIT CARD PURCHASE,TRANSPORTFORNSW TAP SYDNEY,-1976.93,Transport,Transport NSW
+24 Oct 23,-68.57,Card ending 2633, ,CREDIT CARD PURCHASE,TAN VIET DARLG SQ PL HAYMARKET,-1974.69,Food & drink,Tan Viet Noodle House
+24 Oct 23,-9.99,Card ending 2633, ,CREDIT CARD PURCHASE,AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH,-1906.12,Subscriptions,Amazon Prime
+23 Oct 23,-158.98,Card ending 2633, ,CREDIT CARD PURCHASE,ANACONDA PTY LTD STH MELBOURNE,-1896.13,Home,Anaconda
+23 Oct 23,-56.92,Card ending 2633, ,CREDIT CARD PURCHASE,SMP*Unkles Eastwood Eastwood,-1737.15,Shopping,Smartpay Australia
+23 Oct 23,-19.10,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-1680.23,Food & drink,Cafe Kappuccino
+23 Oct 23,-15.00,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-1661.13,Food & drink,Jones St Cafe
+23 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-1646.13,Food & drink,Edition Coffee Roasters
+20 Oct 23,-400.00,Card ending 2633, ,CREDIT CARD PURCHASE,DR MEI-HENG TAN EASTWOOD,-1641.13,Health,ENG Peng TAN Family TST
+20 Oct 23,-33.38,Card ending 2633, ,CREDIT CARD PURCHASE,CHEMIST WAREHOUSE EASTWOOD,-1241.13,Health,Chemist Warehouse (Eastwood)
+20 Oct 23,-15.30,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *JIAN BING Eastwood,-1207.75,Shopping,Square
+20 Oct 23,-6.00,Card ending 2633, ,CREDIT CARD PURCHASE,LA VIGNE BAKERY EASTWOOD,-1192.45,Groceries,La Vigne Bakery
+19 Oct 23,-12.20,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *LIM'S HOT BREAD Eastwood,-1186.45,Groceries,Lim's Hot Bread (Eastwood)
+18 Oct 23,-149.00,Card ending 2633, ,CREDIT CARD PURCHASE,PROUDS 200 SYDNEY,-1174.25,Shopping,Prouds The Jewellers (Westfield Sydney)
+18 Oct 23,-139.00,Card ending 2633, ,CREDIT CARD PURCHASE,SP MILLIGRAM MELBOURNE,-1025.25,Home,Milligram (Melbourne Central)
+18 Oct 23,-33.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE OLD ROAD CAFE MOUNT WHITE,-886.25,Food & drink,The Old Road Cafe
+18 Oct 23,-11.09,Card ending 2633, ,CREDIT CARD PURCHASE,Cali Press Pty Ltd Sydney,-853.25,Food & drink,Cali Press
+18 Oct 23,-10.00,Card ending 2633, ,CREDIT CARD PURCHASE,BAR FINO SYDNEY,-842.16,Food & drink,Bar Fino
+18 Oct 23,-5.64,Card ending 2633, ,CREDIT CARD PURCHASE,WW METRO/189 PITT STREET SYDNEY,-832.16,Groceries,Woolworths Metro (Pitt St Mall)
+18 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-826.52,Food & drink,Edition Coffee Roasters
+18 Oct 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,YY CAFE PTY LTD EASTWOOD,-821.52,Food & drink,Chaffee House
+17 Oct 23,-6.00,Card ending 2633, ,CREDIT CARD PURCHASE,MOUNTAIN GROWERS MKT PEATS RIDGE,-817.02,Groceries,Mountain Growers Market
+17 Oct 23,-4.00,Card ending 2633, ,CREDIT CARD PURCHASE,MOUNTAIN GROWERS MKT PEATS RIDGE,-811.02,Groceries,Mountain Growers Market
+16 Oct 23,-118.55,Card ending 2633, ,CREDIT CARD PURCHASE,POTCHEN PTY LTD EASTWOOD,-807.02,Food & drink,Poong Nab Dong BBQ
+16 Oct 23,-85.00,Card ending 2633, ,CREDIT CARD PURCHASE,PAYPAL *NSWBJJFEDER 4029357733,-688.47,Uncategorised,PayPal
+16 Oct 23,-33.48,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HAWKESBURY RIVER OYSTMooney Mooney,-603.47,Food & drink,Hawkesbury River Oyster Shed
+16 Oct 23,-11.09,Card ending 2633, ,CREDIT CARD PURCHASE,KMALL09 EASTWOOD EASTWOOD,-569.99,Shopping,KMALL09
+16 Oct 23,-9.22,Card ending 2633, ,CREDIT CARD PURCHASE,HMART GROUP PTY LTD EASTWOOD,-558.90,Groceries,Yonghui Supermarket
+16 Oct 23,-5.60,Card ending 2633, ,CREDIT CARD PURCHASE,COLES 0968 West Ryde,-549.68,Groceries,Coles (West Ryde)
+16 Oct 23,-4.50,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-544.08,Food & drink,Jones St Cafe
+16 Oct 23,-3.90,Card ending 2633, ,CREDIT CARD PURCHASE,GACHA GACHA PLUS PTY L SYDNEY,-539.58,Shopping,Gacha Gacha
+13 Oct 23,-61.00,Card ending 2633, ,CREDIT CARD PURCHASE,YAJUAN TANG SYDNEY,-535.68,Personal care,YA Juan Tang
+13 Oct 23,-8.00,Card ending 2633, ,CREDIT CARD PURCHASE,Milksha Sydney Sydney,-474.68,Food & drink,Milksha (Sydney)
+13 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-466.68,Food & drink,Edition Coffee Roasters
+11 Oct 23,-5.08,Card ending 2633, ,CREDIT CARD PURCHASE,SAMMY JUNIOR Sydney,-461.68,Food & drink,Sammy Junior
+11 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-456.60,Food & drink,Edition Coffee Roasters
+10 Oct 23,-180.38,Card ending 2633, ,CREDIT CARD PURCHASE,SYDNEY WATER INT PYMT PARRAMATTA,-451.60,Bills,Sydney Water
+10 Oct 23,-33.50,Card ending 2633, ,CREDIT CARD PURCHASE,EB GAMES NORTH RYDE,-271.22,Shopping,EB Games (Macquarie Centre)
+10 Oct 23,-14.00,Card ending 2633, ,CREDIT CARD PURCHASE,MCDONALDS WYNYARD RL SYDNEY,-237.72,Food & drink,McDonald's (Wynyard Railway)
+10 Oct 23,-7.70,Card ending 2633, ,CREDIT CARD PURCHASE,WOOLWORTHS/ROWE ST EASTWOOD,-223.72,Groceries,Woolworths (Eastwood)
+10 Oct 23,-6.87,Card ending 2633, ,CREDIT CARD PURCHASE,Breadtop Eastwood Eastwood,-216.02,Groceries,Breadtop (Eastwood)
+10 Oct 23,-1.50,Card ending 2633, ,CREDIT CARD PURCHASE,FRIENDLY GROCER PYRM PYRMONT,-209.15,Groceries,Friendly Grocer (Pyrmont)
+09 Oct 23,-110.65,Card ending 2633, ,CREDIT CARD PURCHASE,SYDNEY CITY THAI MASSA HAYMARKET,-207.65,Personal care,Sydney City Thai Massage & Spa
+09 Oct 23,-61.00,Card ending 2633, ,CREDIT CARD PURCHASE,YAJUAN TANG SYDNEY,-97.00,Personal care,YA Juan Tang
+09 Oct 23,-29.00,Card ending 2633, ,CREDIT CARD PURCHASE,BWS LIQUOR/EASTWOOD VLG SEASTWOOD,-36.00,Uncategorised,BWS (Eastwood NSW)
+09 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-7.00,Food & drink,Edition Coffee Roasters
+09 Oct 23,-2.00,Card ending 2633, ,CREDIT CARD PURCHASE,FB AU PTY LTD EASTWOOD,-2.00,Home,FB AU Pty Ltd
+09 Oct 23,3734.83,Card ending 2633, ,CREDIT CARD PAYMENT,CASH/TRANSFER PAYMENT - THANK YOU,0.00,Internal transfers,
+06 Oct 23,-295.00,Card ending 2633, ,FEES,+ANNUAL FEE,-3734.83,Fees,
+06 Oct 23,-44.98,Card ending 2633, ,CREDIT CARD PURCHASE,Better Batt Pty. Ltd. 61390246914,-3439.83,Shopping,Better Batt
+06 Oct 23,-28.30,Card ending 2633, ,CREDIT CARD PURCHASE,JONES ST CAFE ULTIMO,-3394.85,Food & drink,Jones St Cafe
+06 Oct 23,-25.28,Card ending 2633, ,CREDIT CARD PURCHASE,AIRPORT RETAIL ENTERPR NORTHGATE,-3366.55,Food & drink,Airport Retail Enterprises (Brisbane Airport)
+06 Oct 23,-17.50,Card ending 2633, ,CREDIT CARD PURCHASE,MamaksMLC Sydney,-3341.27,Food & drink,Mamak (Haymarket)
+05 Oct 23,-41.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE Q ON HARRIS Ultimo,-3323.77,Food & drink,The Q on Harris
+05 Oct 23,-9.50,Card ending 2633, ,CREDIT CARD PURCHASE,SHAH JUICE PTY LTD SYDNEY,-3282.77,Food & drink,Boost Juice (World Square)
+05 Oct 23,-9.13,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *DEDYS CAFE & PASTRIESSydney,-3273.27,Shopping,Square
+04 Oct 23,-7.80,Card ending 2633, ,CREDIT CARD PURCHASE,METRO SOUTHPORT SOUTHPORT,-3264.14,Groceries,Metro Petroleum (Southport)
+03 Oct 23,-18.10,Card ending 2633, ,CREDIT CARD PURCHASE,MAD MEX SD2 MASCOT,-3256.34,Food & drink,Mad Mex (Sydney Airport)
+03 Oct 23,-7.50,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *HEERETEA SUNNYBANK Sunnybank,-3238.24,Food & drink,Heeretea (Sunnybank Plaza)
+02 Oct 23,-1720.00,Card ending 2633, ,CREDIT CARD PURCHASE,THE INSTITUTE OF ACTUARIESYDNEY,-3230.74,Entertainment,Actuaries Institute
+02 Oct 23,-644.00,Card ending 2633, ,CREDIT CARD PURCHASE,CERA HOLDINGS PTY LT MORNINGTON,-1510.74,Services,Mark Gray Gallery
+02 Oct 23,-33.00,Card ending 2633, ,CREDIT CARD PURCHASE,SQ *KAPPUCCINO Ultimo,-866.74,Food & drink,Cafe Kappuccino
+02 Oct 23,-14.05,Card ending 2633, ,CREDIT CARD PURCHASE,PULP+GRIND SYD T2 Mascot,-833.74,Food & drink,Pulp & Grind (Sydney Airport T2)
+02 Oct 23,-5.00,Card ending 2633, ,CREDIT CARD PURCHASE,EDITION ROASTERS MC Sydney,-819.69,Food & drink,Edition Coffee Roasters
+29 Sep 23,-8.12,Card ending 2633, ,CREDIT CARD PURCHASE,Machi Machi Eastwood Eastwood,-814.69,Food & drink,Machi Machi (Eastwood)
+28 Sep 23,-783.08,Card ending 2633, ,CREDIT CARD PURCHASE,NOMADIC ID LONDON,-806.57,Uncategorised,
+28 Sep 23,-23.49,Card ending 2633, ,FEES,NAB INTNL TRAN FEE - (MC),-23.49,Fees,
